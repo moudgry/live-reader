@@ -29,6 +29,6 @@ https://github.com/moudgry/live-reader/blob/main/AndroidManifest.xml#L7-L15
 If you find any vulnerability caused by me unintentionally, or have any question regarding how the app protects your privacy, please send me an email or post a discussion on GitHub, I will definitely try to fix it and help you.
 
 All the best,<br/>
- ElGharably<br/>
+Mahmoud ElGharably<br/>
 moud.elgharably@gmail.com<br/>
 https://moudgry.github.io
