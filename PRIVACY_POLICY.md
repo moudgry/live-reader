@@ -12,7 +12,7 @@ This app does not collect any personally identifiable information. All data (suc
 
 The list of permissions required by the app can be found in the `AndroidManifest.xml` file:
 
-https://github.com/mahmoud-elgharably/live-reader/blob/main/AndroidManifest.xml#L7-L15
+https://github.com/moudgry/live-reader/blob/main/AndroidManifest.xml#L7-L15
 
 <br/>
 
@@ -29,6 +29,6 @@ https://github.com/mahmoud-elgharably/live-reader/blob/main/AndroidManifest.xml#
 If you find any vulnerability caused by me unintentionally, or have any question regarding how the app protects your privacy, please send me an email or post a discussion on GitHub, I will definitely try to fix it and help you.
 
 All the best,<br/>
-Mahmoud ElGharably<br/>
+ ElGharably<br/>
 moud.elgharably@gmail.com<br/>
-https://mahmoud-elgharably.github.io
+https://moudgry.github.io
