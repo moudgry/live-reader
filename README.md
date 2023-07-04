@@ -53,7 +53,7 @@ No Ads! 100% Free! Save money!
 
 ## How to contribute?
 ### Bug reports:
-Please create an issue with as much details as possible. Also look at the [guidelines](https://github.com/moudgry/live-reader/blob/master/CONTRIBUTING.md#guidelines-for-creating-an-issue) for creating an issue.
+Please create an issue with as much details as possible. Also look at the [guidelines](https://github.com/moudgry/live-reader/blob/main/CONTRIBUTING.md#guidelines-for-creating-an-issue) for creating an issue.
 
 ### Ideas/Feature Requests:
 Ideas for improvement and feature requests are always welcome. Please post them in the [Feature requests](https://github.com/moudgry/live-reader/discussions/categories/feature-requests) category under Discussions.
