@@ -18,6 +18,9 @@ Generate QR codes and keep a history of the ones you scanned and your favorite o
 
 No Ads! 100% Free! Save money!
 
+<div>
+<img src="https://github.com/moudgry/live-reader/blob/main/img/sld01.png">
+</div>
 
 ## Salient features:
 1. Works offline.
