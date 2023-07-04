@@ -23,6 +23,10 @@ No Ads! 100% Free! Save money!
   <img src="https://github.com/moudgry/live-reader/blob/main/img/sld02.png" width="270">
   <img src="https://github.com/moudgry/live-reader/blob/main/img/sld03.png" width="270">
   <img src="https://github.com/moudgry/live-reader/blob/main/img/sld04.png" width="270">
+  <img src="https://github.com/moudgry/live-reader/blob/main/img/sld05.png" width="270">
+  <img src="https://github.com/moudgry/live-reader/blob/main/img/sld06.png" width="270">
+  <img src="https://github.com/moudgry/live-reader/blob/main/img/sld07.png" width="270">
+  <img src="https://github.com/moudgry/live-reader/blob/main/img/sld08.png" width="270">
 </div>
 
 ## Salient features:
