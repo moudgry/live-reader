@@ -19,7 +19,10 @@ Generate QR codes and keep a history of the ones you scanned and your favorite o
 No Ads! 100% Free! Save money!
 
 <div>
-<img src="https://github.com/moudgry/live-reader/blob/main/img/sld01.png">
+  <img src="https://github.com/moudgry/live-reader/blob/main/img/sld01.png" width="270">
+  <img src="https://github.com/moudgry/live-reader/blob/main/img/sld02.png" width="270">
+  <img src="https://github.com/moudgry/live-reader/blob/main/img/sld03.png" width="270">
+  <img src="https://github.com/moudgry/live-reader/blob/main/img/sld04.png" width="270">
 </div>
 
 ## Salient features:
