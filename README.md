@@ -10,7 +10,7 @@
 ![GitHub Release Date](https://img.shields.io/github/release-date/moudgry/live-reader?style=for-the-badge)
 
 ![](https://img.shields.io/badge/Minimum%20SDK%20version-Lollipop%20(API%2022)-%2306486b?style=for-the-badge) &nbsp; 
-![Target SDK version](https://img.shields.io/badge/target%20SDK%20version-Android%2014%20(API%2033)-9cf?style=for-the-badge)
+![Target SDK version](https://img.shields.io/badge/target%20SDK%20version-Android%2013%20(API%2033)-9cf?style=for-the-badge)
 
 QR & Barcode Scanner - Live Reader is an essential app for every Android device for scanning QR code and Barcodes.
 Scan barcodes on products and QR codes containing URLs, contact information, etc.
