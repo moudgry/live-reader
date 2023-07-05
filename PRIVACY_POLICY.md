@@ -22,6 +22,7 @@ https://github.com/moudgry/live-reader/blob/main/AndroidManifest.xml#L7-L15
 | `android.permission.VIBRATE` | Required to vibrate the device when perform scan. Permission automatically granted by the system; can't be revoked by user. |
 | `android.permission.READ_EXTERNAL_STORAGE` | This permission can be revoked by the system or the user at any time. This is only required if you want to import the app's data from CSV file. In order to read the CSV file, the app needs permission to read the storage. Importing data from CSV file but revoking this permission later may cause the app to crash at the time of choosing the CSV file because a security exception occurred while reading the CSV file. |
 | `android.permission.WRITE_EXTERNAL_STORAGE` | This is required to export the application data to a CSV file.|
+| `android.permission.READ_MEDIA_IMAGES` | This is required for the Image Scan feature.|
 | `android.permission.INTERNET` | Required to launch website automatically after scanning. Permission automatically granted by the system; can't be revoked by user. |
 
  <hr style="border:1px solid gray">
