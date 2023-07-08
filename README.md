@@ -48,7 +48,7 @@ No Ads! 100% Free! Save money!
 
 
 <a href="https://github.com/moudgry/live-reader/releases/latest"><img src="github.png" alt="Download from Github icon" width="200"/></a>
-<a href='https://play.google.com/store/apps/details?id=in.basulabs.shakealarmclock'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=200/></a>
+<a href='https://play.google.com/store/apps/details?id=com.moudgry.livereader'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width=200/></a>
 
 
 ## How to contribute?
